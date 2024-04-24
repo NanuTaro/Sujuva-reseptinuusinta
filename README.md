@@ -22,26 +22,7 @@ Terveydenhuollossa on suuri resurssipula lääkäreistä. Reseptinuusinta on yks
 Reseptinuusintaa varten tulisi olla oma digitaalinen palvelu kuluttajille. Jokaisen pitkäaikaissaurauden taakse pitäisi määritellä hoitotasapainon määrittelemiseksi tarvittavat parametrit sekä määreet, millä perusteella kussakin sairaudessa resepti voitaisiin uusia. Hoitotasapainon määrittelemiseksi kussakin sairaudessa löytyy parametrit ja määreet Käypä Hoito suosituksista. Digitaalisen palvelun pitäisi pystyä hyödyntämään potilastietojärjestelmään kustakin potilaasta kertynyttä dataa (laboratoriokokeet etc.) ja asiakkaan pitäisi pystyä syöttämään tarvittavia tietoja digitaaliseen palveluun myös itse (kuten verenpainemittauksen tulokset, astamatestin tulokset etc.)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+<img src="[https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300](https://www.istockphoto.com/photo/doctor-using-software-computer-document-management-system-online-documentation-gm1448817031-486200932?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ffi%2Fimages%2Fsearch%2Fl%25C3%25A4%25C3%25A4k%25C3%25A4ri%2F&utm_term=l%C3%A4%C3%A4k%C3%A4ri)">
 
 ## Data sources and AI methods
 Datan pitäisi tulla terveydenhuollon organisaatioilta ja asiakkailta. Käytettävät AI-metodit tulisi suunnitella yhdessä yhteiskehittäjien kanssa. 
