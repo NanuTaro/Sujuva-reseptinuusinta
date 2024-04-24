@@ -21,8 +21,8 @@ Terveydenhuollossa on suuri resurssipula lääkäreistä. Reseptinuusinta on yks
 
 Reseptinuusintaa varten tulisi olla oma digitaalinen palvelu kuluttajille. Jokaisen pitkäaikaissaurauden taakse pitäisi määritellä hoitotasapainon määrittelemiseksi tarvittavat parametrit sekä määreet, millä perusteella kussakin sairaudessa resepti voitaisiin uusia. Hoitotasapainon määrittelemiseksi kussakin sairaudessa löytyy parametrit ja määreet Käypä Hoito suosituksista. Digitaalisen palvelun pitäisi pystyä hyödyntämään potilastietojärjestelmään kustakin potilaasta kertynyttä dataa (laboratoriokokeet etc.) ja asiakkaan pitäisi pystyä syöttämään tarvittavia tietoja digitaaliseen palveluun myös itse (kuten verenpainemittauksen tulokset, astamatestin tulokset etc.)
 
-If you need to resize images, you have to use an HTML tag, like this
-(https://upload.istockphoto.com/photo/doctor-using-software-computer-document-management-system-online-documentation-gm1448817031-486200932?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ffi%2Fimages%2Fsearch%2Fl%25C3%25A4%25C3%25A4k%25C3%25A4ri%2F&utm_term=l%C3%A4%C3%A4k%C3%A4ri)
+
+
 ## Data sources and AI methods
 Datan pitäisi tulla terveydenhuollon organisaatioilta ja asiakkailta. Käytettävät AI-metodit tulisi suunnitella yhdessä yhteiskehittäjien kanssa. 
 If you need to use links, here's an example:
