@@ -17,7 +17,7 @@ Terveydenhuollossa on suuri resurssipula lääkäreistä. Reseptinuusinta on yks
 * Reseptinuusinta vie työpäivästä ison osan lääkärin työaikaa
 * Lääkärit eivät koe reseptinuusintaa mielekkäänä työnä
 
- ! [image of an online doctor](https://cdn.pixabay.com/photo/2014/12/10/20/56/medical-563427_1280.jpg)
+ ! [https://cdn.pixabay.com/photo/2014/12/10/20/56/medical-563427_1280.jpg]
 
 ## How is it used?
 
