@@ -13,9 +13,8 @@ Tavoitteena on kehittää AI-pohjainen reseptinuusinta yleisimpiin pitkäaikaiss
 
 Terveydenhuollossa on suuri resurssipula lääkäreistä. Reseptinuusinta on yksi työ, joka vie paljon lääkäriresurssia, mutta voisi olla tehtävissä AI-avusteisesti ja näin säästettäisiin merkittävästi lääkärin resurssia ja parannettaisiin myös työntekijäkokemusta.
 
-This is how you make a list, if you need one:
-* Terveydenhuollossa lääkäriresurssihaaste
-* Reseptinuusinta vie paljon yksittäisen lääkärin työaikaa
+* Terveydenhuollon lääkäriresurssivaje
+* Reseptinuusinta vie työpäivästä ison osan lääkärin työaikaa
 * Lääkärit eivät koe reseptinuusintaa mielekkäänä työnä
 
 ## How is it used?
