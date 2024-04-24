@@ -25,13 +25,7 @@ Reseptinuusintaa varten tulisi olla oma digitaalinen palvelu kuluttajille. Jokai
 
 ## Data sources and AI methods
 Datan pitäisi tulla terveydenhuollon organisaatioilta ja asiakkailta. Käytettävät AI-metodit tulisi suunnitella yhdessä yhteiskehittäjien kanssa. 
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
